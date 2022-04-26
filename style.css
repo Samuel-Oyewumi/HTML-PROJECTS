@@ -1,0 +1,10 @@
+ #heading{ background-color: chocolate;
+    color: black;
+margin: 0px;
+padding: 50px;
+}
+#next{
+background-color: rgb(252, 205, 76);
+padding: 10px;
+}
+a:visited
